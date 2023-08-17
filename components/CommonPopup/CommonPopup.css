@@ -1,0 +1,14 @@
+.common-popup-wraper .modal-dialog {
+    width: auto;
+    max-width: unset;
+    border: none;
+    justify-content: center;
+}
+.common-popup-wraper .modal-content {
+    width: auto !important;
+    height: unset !important;
+    border: none;
+}
+.common-popup-wraper {
+    --bs-modal-bg: transparent;
+}

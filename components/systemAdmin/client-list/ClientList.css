@@ -1,0 +1,15 @@
+.client-top-nav { position: relative;}
+.client-top-nav ul {}
+.client-top-nav ul li { list-style-type: none; display: inline-block; margin: 0 6px;}
+.client-top-nav ul li a { text-decoration: none; border-radius: 10px; color: black;  padding: 10px 20px; border: 1px solid transparent; }
+.client-top-nav ul li a.active { text-decoration: none; border-radius: 10px; border: 1px solid #5137db; color: #5137db;}
+.client-top-nav ul li a:hover { text-decoration: none; border-radius: 10px; border: 1px solid #5137db; color: #5137db;}
+
+
+.addClient {}
+.addClient h4 { font-size: 1.2rem; color: #000; font-weight: bold; margin-bottom: 0px;}
+.addClient label { font-size: 13px; }
+.addClient small { margin-bottom: 1rem; display: block;}
+.addClient .form-control { color: #000; font-size: 13px; height: calc(2em + 0.75rem + 2px);}
+.addClient .modal-content { border-radius: 20px;}
+.form-error { font-size: 13px; color: red;}
